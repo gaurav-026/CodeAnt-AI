@@ -7,18 +7,22 @@ Follow these steps to clone and run the project on your local system:
 ### 1. Clone the Repository  
 ```bash  
 git clone https://github.com/gaurav-026/CodeAnt-AI.git  
+```
 
 ### 2.  Navigate to the Project Directory
 ```bash  
 cd CodeAnt-AI  
+```
 
 ### 3.  Install Dependencies
 ```bash  
 npm install  
+```
 
 ### 4.  Start the Development Server
 ```bash  
 npm run dev
+```
 
 ### 5.   Access the Application
 Open your browser and go to:
