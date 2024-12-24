@@ -8,9 +8,21 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        typeBgColor: '#EFF8FF',
+        typeBorderColor: '#B2DDFF',
+        typeColor: '#175CD3',
+        borderColor: '#D5D7DA',
+        blue:'#1570EF',
+        bgColor: '#FAFAFA',
+        cardColor: '#fdfdfd',
+        purpleText: '#0049C6',
+        purpleFill:'#9D90FA'
+        
       },
+      boxShadow: {
+        'outer-glow': '0 0 24px rgba(8, 23, 53, 0.16)', 
+      },
+      
     },
   },
   plugins: [],
