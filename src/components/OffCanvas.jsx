@@ -3,7 +3,6 @@ import { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Offcanvas from 'react-bootstrap/Offcanvas';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Navbar } from 'react-bootstrap';
 import nav from "@/assets/nav.png"
 import Image from 'next/image';
 import codeAI from "@/assets/codeAI.png"
